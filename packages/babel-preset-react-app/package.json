@@ -4,7 +4,7 @@
   "description": "Babel preset used by Create React App",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/wali-s/create-react-app.git",
     "directory": "packages/babel-preset-react-app"
   },
   "license": "MIT",
